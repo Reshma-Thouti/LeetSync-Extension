@@ -216,6 +216,29 @@ This version includes additional personalization improvements beyond the base im
 
 ---
 
+## 📷 Screenshots
+   ### Dashboard
+
+   ![Dashboard 1](screenshots\leet_dashboard.jpeg)
+   ![Dashboard 2](screenshots\leet_recent.jpeg)
+   ![Dashboard 3](screenshots\gfg_dashboard.jpeg)
+   
+   ### Settings Panel
+
+   ![Settings](screenshots/settings.png)
+
+   ### GitHub Auto Sync
+
+   ![GitHub Sync](screenshots/settings.png)
+
+   ### Account Protection
+
+   ![Account Lock 1](screenshots/account_protection.png)
+   ![Account Lock 2](screenshots/account_protection2.png)
+   ![Account Lock 3](screenshots/account_protection3.png)
+
+---
+
 ## ⚠️ Known Limitations
 
 - **LeetCode UI Changes** — LeetCode occasionally updates its DOM class names. If auto-sync stops working, use **Force Sync** and open an issue with the browser console output.
