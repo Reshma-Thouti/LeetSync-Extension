@@ -219,9 +219,9 @@ This version includes additional personalization improvements beyond the base im
 ## 📷 Screenshots
    ### Dashboard
 
-   ![Dashboard 1](screenshots\leet_dashboard.jpeg)
-   ![Dashboard 2](screenshots\leet_recent.jpeg)
-   ![Dashboard 3](screenshots\gfg_dashboard.jpeg)
+   ![Dashboard 1](screenshots/leet_dashboard.jpeg)
+   ![Dashboard 2](screenshots/leet_recent.jpeg)
+   ![Dashboard 3](screenshots/gfg_dashboard.jpeg)
    
    ### Settings Panel
 
