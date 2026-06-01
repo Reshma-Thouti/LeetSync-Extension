@@ -225,17 +225,17 @@ This version includes additional personalization improvements beyond the base im
    
    ### Settings Panel
 
-   ![Settings](screenshots/settings.png)
+   ![Settings](screenshots/settings.jpeg)
 
    ### GitHub Auto Sync
 
-   ![GitHub Sync](screenshots/settings.png)
+   ![GitHub Sync](screenshots/settings.jpeg)
 
    ### Account Protection
 
-   ![Account Lock 1](screenshots/account_protection.png)
-   ![Account Lock 2](screenshots/account_protection2.png)
-   ![Account Lock 3](screenshots/account_protection3.png)
+   ![Account Lock 1](screenshots/account_protection.jpeg)
+   ![Account Lock 2](screenshots/account_protection2.jpeg)
+   ![Account Lock 3](screenshots/account_protection3.jpeg)
 
 ---
 
