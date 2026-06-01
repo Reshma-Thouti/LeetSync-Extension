@@ -18,6 +18,8 @@
 ## ✨ Features
 
 - **Auto-Sync on Accept** — Detects a successful submission and immediately pushes your solution to GitHub without any manual steps.
+- **Account-Locked Sync** — Only authorized LeetCode and GeeksforGeeks usernames can sync solutions, preventing accidental uploads from shared browsers or friend accounts.
+- **Accepted-Only Upload Logic** — Solutions are pushed to GitHub only after an **Accepted / Problem Solved Successfully** result. Wrong answers, compile errors, and failed submissions are ignored.
 - **Multi-Platform Support** — Works seamlessly on both [LeetCode](https://leetcode.com) and [GeeksforGeeks](https://www.geeksforgeeks.org).
 - **Multi-Language Support** — Correctly identifies and organizes solutions in Java, Python, C++, JavaScript, and more.
 - **Smart Folder Structure** — Organizes files by `Platform → Language → Difficulty → Problem Title` automatically.
@@ -78,7 +80,7 @@ LeetSync is loaded as an **unpacked extension** — no Web Store required.
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/BSatya-Saketh/LeetSync.git
+   git clone https://github.com/Reshma-Thouti/LeetSync-Extension.git
    cd LeetSync
    ```
 
@@ -196,6 +198,24 @@ Bug reports and feature requests via [Issues](../../issues) are also very welcom
 
 ---
 
+## 🔐 Custom Enhancements
+
+This version includes additional personalization improvements beyond the base implementation:
+
+- **Account-Locked Sync**  
+  Syncing is restricted to authorized LeetCode and GeeksforGeeks usernames.
+
+- **Accepted-Only Upload Protection**  
+  GitHub uploads occur only after successful accepted submissions.
+
+- **Friend / Shared Browser Safety**  
+  Prevents accidental solution uploads from other logged-in accounts.
+
+- **Personal GitHub Repository Integration**  
+  Configured to upload solutions into a dedicated personal coding portfolio repository.
+
+---
+
 ## ⚠️ Known Limitations
 
 - **LeetCode UI Changes** — LeetCode occasionally updates its DOM class names. If auto-sync stops working, use **Force Sync** and open an issue with the browser console output.
@@ -212,5 +232,5 @@ This project is licensed under the **MIT License** — you are free to use, modi
 ---
 
 <div align="center">
-  <sub>Built with ❤️ by <a href="https://github.com/BSatya-Saketh">BSatya-Saketh</a> — because your solutions deserve to be seen.</sub>
+  <sub>Built with ❤️ by <a href="https://github.com/Reshma-Thouti">Reshma-Thouti</a> — because your solutions deserve to be seen.</sub>
 </div>
